@@ -1,5 +1,5 @@
 # TRIANGLE
-
+[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alberto-diego-triangle.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alberto-diego-triangle)
 Este paquete contiene la clase Triangle, que hereda de la clase Shape. El procedimiento de uso es similar al siguiente:
 
 ```
